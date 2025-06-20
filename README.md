@@ -26,12 +26,7 @@ Outcome (0: No Diabetes, 1: Diabetes)
 
 🧠 Algorithms Used
 This project uses supervised learning classification algorithms:
-
- Logistic Regression
- Decision Tree
- Random Forest
  Support Vector Machine (SVM)
- K-Nearest Neighbors (KNN)
 
  Project Goals
 Clean and understand the data
